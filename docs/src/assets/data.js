@@ -7,7 +7,7 @@ exports.data = [
         title: "Senior Frontend Developer",
         company: {
             name: "Photosnap",
-            logo: `http://localhost:3000/images/photosnap.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/photosnap.svg`,
         },
         descript: {
             ago: "1d ago",
@@ -20,7 +20,7 @@ exports.data = [
         title: "Fullstack Developer",
         company: {
             name: "Manage",
-            logo: `http://localhost:3000/images/manage.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/manage.svg`,
         },
         descript: {
             ago: "1d ago",
@@ -33,7 +33,7 @@ exports.data = [
         title: "Junior Frontend Developer",
         company: {
             name: "Account",
-            logo: `http://localhost:3000/images/account.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/account.svg`,
         },
         descript: {
             ago: "2d ago",
@@ -46,7 +46,7 @@ exports.data = [
         title: "Junior Frontend Developer",
         company: {
             name: "MyHome",
-            logo: `http://localhost:3000/images/myhome.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/myhome.svg`,
         },
         descript: {
             ago: "5d ago",
@@ -59,7 +59,7 @@ exports.data = [
         title: "Software Engineer",
         company: {
             name: "Loop Studios",
-            logo: `http://localhost:3000/images/loop-studios.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/loop-studios.svg`,
         },
         descript: {
             ago: "1w ago",
@@ -72,7 +72,7 @@ exports.data = [
         title: "Junior Backend Developer",
         company: {
             name: "FaceIt",
-            logo: `http://localhost:3000/images/faceit.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/faceit.svg`,
         },
         descript: {
             ago: "2w ago",
@@ -85,7 +85,7 @@ exports.data = [
         title: "Junior Developer",
         company: {
             name: "Shortly",
-            logo: `http://localhost:3000/images/shortly.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/shortly.svg`,
         },
         descript: {
             ago: "2w ago",
@@ -98,7 +98,7 @@ exports.data = [
         title: "Junior Frontend Developer",
         company: {
             name: "Insure",
-            logo: `http://localhost:3000/images/insure.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/insure.svg`,
         },
         descript: {
             ago: "2w ago",
@@ -111,7 +111,7 @@ exports.data = [
         title: "Full Stack Engineer",
         company: {
             name: "Eyecam Co.",
-            logo: `http://localhost:3000/images/eyecam-co.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/eyecam-co.svg`,
         },
         descript: {
             ago: "3w ago",
@@ -124,7 +124,7 @@ exports.data = [
         title: "Front-end Dev",
         company: {
             name: "The Air Filter Company",
-            logo: `http://localhost:3000/images/the-air-filter-company.svg`,
+            logo: `https://apiwork11.herokuapp.com/images/the-air-filter-company.svg`,
         },
         descript: {
             ago: "1mo ago",
