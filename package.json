@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "start": "nodemon index.ts",
     "build": "tsc",
-    "postinstall": "npm run build"
+    "start": "node build/index.js",
   },
   "keywords": [],
   "author": "",
