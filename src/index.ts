@@ -1,5 +1,5 @@
 import express from "express";
-import { data } from "./src/assets/data";
+import { data } from "./assets/data";
 
 const app = express();
 const PORT = 3000;
