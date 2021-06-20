@@ -25,6 +25,6 @@ app.get(
   ) => res.send(data)
 );
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || PORT, () => {
   console.log(`⚡️[server]: Server is running at https://localhost:${PORT}`);
 });
