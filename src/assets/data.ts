@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    title: "Senior Frontend Developer",
+    job: "Senior Frontend Developer",
     company: {
       name: "Photosnap",
       logo: `https://apiwork11.herokuapp.com/images/photosnap.svg`,
@@ -14,7 +14,7 @@ export const data = [
   },
   {
     id: 2,
-    title: "Fullstack Developer",
+    job: "Fullstack Developer",
     company: {
       name: "Manage",
       logo: `https://apiwork11.herokuapp.com/images/manage.svg`,
@@ -27,7 +27,7 @@ export const data = [
   },
   {
     id: 3,
-    title: "Junior Frontend Developer",
+    job: "Junior Frontend Developer",
     company: {
       name: "Account",
       logo: `https://apiwork11.herokuapp.com/images/account.svg`,
@@ -40,7 +40,7 @@ export const data = [
   },
   {
     id: 4,
-    title: "Junior Frontend Developer",
+    job: "Junior Frontend Developer",
     company: {
       name: "MyHome",
       logo: `https://apiwork11.herokuapp.com/images/myhome.svg`,
@@ -53,7 +53,7 @@ export const data = [
   },
   {
     id: 5,
-    title: "Software Engineer",
+    job: "Software Engineer",
     company: {
       name: "Loop Studios",
       logo: `https://apiwork11.herokuapp.com/images/loop-studios.svg`,
@@ -66,7 +66,7 @@ export const data = [
   },
   {
     id: 6,
-    title: "Junior Backend Developer",
+    job: "Junior Backend Developer",
     company: {
       name: "FaceIt",
       logo: `https://apiwork11.herokuapp.com/images/faceit.svg`,
@@ -79,7 +79,7 @@ export const data = [
   },
   {
     id: 7,
-    title: "Junior Developer",
+    job: "Junior Developer",
     company: {
       name: "Shortly",
       logo: `https://apiwork11.herokuapp.com/images/shortly.svg`,
@@ -92,7 +92,7 @@ export const data = [
   },
   {
     id: 8,
-    title: "Junior Frontend Developer",
+    job: "Junior Frontend Developer",
     company: {
       name: "Insure",
       logo: `https://apiwork11.herokuapp.com/images/insure.svg`,
@@ -105,7 +105,7 @@ export const data = [
   },
   {
     id: 9,
-    title: "Full Stack Engineer",
+    job: "Full Stack Engineer",
     company: {
       name: "Eyecam Co.",
       logo: `https://apiwork11.herokuapp.com/images/eyecam-co.svg`,
@@ -118,7 +118,7 @@ export const data = [
   },
   {
     id: 10,
-    title: "Front-end Dev",
+    job: "Front-end Dev",
     company: {
       name: "The Air Filter Company",
       logo: `https://apiwork11.herokuapp.com/images/the-air-filter-company.svg`,

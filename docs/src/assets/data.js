@@ -4,7 +4,7 @@ exports.data = void 0;
 exports.data = [
     {
         id: 1,
-        title: "Senior Frontend Developer",
+        job: "Senior Frontend Developer",
         company: {
             name: "Photosnap",
             logo: `https://apiwork11.herokuapp.com/images/photosnap.svg`,
@@ -17,7 +17,7 @@ exports.data = [
     },
     {
         id: 2,
-        title: "Fullstack Developer",
+        job: "Fullstack Developer",
         company: {
             name: "Manage",
             logo: `https://apiwork11.herokuapp.com/images/manage.svg`,
@@ -30,7 +30,7 @@ exports.data = [
     },
     {
         id: 3,
-        title: "Junior Frontend Developer",
+        job: "Junior Frontend Developer",
         company: {
             name: "Account",
             logo: `https://apiwork11.herokuapp.com/images/account.svg`,
@@ -43,7 +43,7 @@ exports.data = [
     },
     {
         id: 4,
-        title: "Junior Frontend Developer",
+        job: "Junior Frontend Developer",
         company: {
             name: "MyHome",
             logo: `https://apiwork11.herokuapp.com/images/myhome.svg`,
@@ -56,7 +56,7 @@ exports.data = [
     },
     {
         id: 5,
-        title: "Software Engineer",
+        job: "Software Engineer",
         company: {
             name: "Loop Studios",
             logo: `https://apiwork11.herokuapp.com/images/loop-studios.svg`,
@@ -69,7 +69,7 @@ exports.data = [
     },
     {
         id: 6,
-        title: "Junior Backend Developer",
+        job: "Junior Backend Developer",
         company: {
             name: "FaceIt",
             logo: `https://apiwork11.herokuapp.com/images/faceit.svg`,
@@ -82,7 +82,7 @@ exports.data = [
     },
     {
         id: 7,
-        title: "Junior Developer",
+        job: "Junior Developer",
         company: {
             name: "Shortly",
             logo: `https://apiwork11.herokuapp.com/images/shortly.svg`,
@@ -95,7 +95,7 @@ exports.data = [
     },
     {
         id: 8,
-        title: "Junior Frontend Developer",
+        job: "Junior Frontend Developer",
         company: {
             name: "Insure",
             logo: `https://apiwork11.herokuapp.com/images/insure.svg`,
@@ -108,7 +108,7 @@ exports.data = [
     },
     {
         id: 9,
-        title: "Full Stack Engineer",
+        job: "Full Stack Engineer",
         company: {
             name: "Eyecam Co.",
             logo: `https://apiwork11.herokuapp.com/images/eyecam-co.svg`,
@@ -121,7 +121,7 @@ exports.data = [
     },
     {
         id: 10,
-        title: "Front-end Dev",
+        job: "Front-end Dev",
         company: {
             name: "The Air Filter Company",
             logo: `https://apiwork11.herokuapp.com/images/the-air-filter-company.svg`,

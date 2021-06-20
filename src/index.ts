@@ -16,7 +16,7 @@ app.get(
       send: (
         arg0: {
           id: number;
-          title: string;
+          job: string;
           company: { name: string; logo: string };
           descript: { ago: string; time: string; only: string };
         }[]
