@@ -5,9 +5,11 @@
         "rootDir": "./",
         "outDir": "./build",
         "esModuleInterop": true,
-        "strict": true
+        "strict": true,
+        "resolveJsonModule": true,
     },
     "include": [
         "./src/index.ts",
+        "./src/data.json"
     ],
 }
