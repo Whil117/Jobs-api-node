@@ -1,132 +1,162 @@
 export const data = [
   {
-    id: 1,
-    job: "Senior Frontend Developer",
-    company: {
-      name: "Photosnap",
-      logo: `https://apiwork11.herokuapp.com/images/photosnap.svg`,
+    "id": 1,
+    "job": "Senior Frontend Developer",
+    "company": {
+      "name": "Photosnap",
+      "logo": "https://apiwork11.herokuapp.com/images/photosnap.svg",
     },
-    descript: {
-      ago: "1d ago",
-      time: "Full Time",
-      only: "USA Only",
+    "descript": {
+      "ago": "1d ago",
+      "time": "Full Time",
+      "only": "USA Only",
+    },
+    "tags":{
+      "id":["HTML","CSS","JS",'Kotlin','Java','Angular'],
+      "new":"New!",
+      "feat":"Featured"
+    }
+  },
+  {
+    "id": 2,
+    "job": "Fullstack Developer",
+    "company": {
+      "name": "Manage",
+      "logo": "https://apiwork11.herokuapp.com/images/manage.svg",
+    },
+    "descript": {
+      "ago": "1d ago",
+      "time": "Part Time",
+      "only": "Remote",
+    },
+    "tags":{
+      "id":["HTML","CSS","JS",'React',"MongoDB"],
+      "new":"New!",
+      "feat":"Featured"
+    }
+  },
+  {
+    "id": 3,
+    "job": "Junior Frontend Developer",
+    "company": {
+      "name": "Account",
+      "logo": "https://apiwork11.herokuapp.com/images/account.svg",
+    },
+    "descript": {
+      "ago": "2d ago",
+      "time": "Part Time",
+      "only": "USA Only",
+    },
+    "tags":{
+      "id":["HTML","CSS","JS"],
+      "new":"New!",
+      "feat":"Featured"
+    }
+  },
+  {
+    "id": 4,
+    "job": "Junior Frontend Developer",
+    "company": {
+      "name": "MyHome",
+      "logo": "https://apiwork11.herokuapp.com/images/myhome.svg",
+    },
+    "descript": {
+      "ago": "5d ago",
+      "time": "Contract",
+      "only": "USA Only",
+    },
+    "tags":{
+      "id":["HTML","CSS","JS"]
+    }
+  },
+  {
+    "id": 5,
+    "job": "Software Engineer",
+    "company": {
+      "name": "Loop Studios",
+      "logo": "https://apiwork11.herokuapp.com/images/loop-studios.svg",
+    },
+    "descript": {
+      "ago": "1w ago",
+      "time": "Full Time",
+      "only": "WorldWide",
+    },
+    "tags":{
+      "id":["HTML","CSS","JS","C++","C#","Typescript"]
+    }
+  },
+  {
+    "id": 6,
+    "job": "Junior Backend Developer",
+    "company": {
+      "name": "FaceIt",
+      "logo": "https://apiwork11.herokuapp.com/images/faceit.svg",
+    },
+    "descript": {
+      "ago": "2w ago",
+      "time": "Full Time",
+      "only": "UK Only",
     },
   },
   {
-    id: 2,
-    job: "Fullstack Developer",
-    company: {
-      name: "Manage",
-      logo: `https://apiwork11.herokuapp.com/images/manage.svg`,
+    "id": 7,
+    "job": "Junior Developer",
+    "company": {
+      "name": "Shortly",
+      "logo": "https://apiwork11.herokuapp.com/images/shortly.svg",
     },
-    descript: {
-      ago: "1d ago",
-      time: "Part Time",
-      only: "Remote",
+    "descript": {
+      "ago": "2w ago",
+      "time": "Full Time",
+      "only": "WorldWide",
+    },
+    "tags":{
+      "id":["HTML","CSS"]
+    }
+  },
+  {
+    "id": 8,
+    "job": "Junior Frontend Developer",
+    "company": {
+      "name": "Insure",
+      "logo": "https://apiwork11.herokuapp.com/images/insure.svg",
+    },
+    "descript": {
+      "ago": "2w ago",
+      "time": "Full Time",
+      "only": "Usa Only",
     },
   },
   {
-    id: 3,
-    job: "Junior Frontend Developer",
-    company: {
-      name: "Account",
-      logo: `https://apiwork11.herokuapp.com/images/account.svg`,
+    "id": 9,
+    "job": "Full Stack Engineer",
+    "company": {
+      "name": "Eyecam Co.",
+      "logo": "https://apiwork11.herokuapp.com/images/eyecam-co.svg",
     },
-    descript: {
-      ago: "2d ago",
-      time: "Part Time",
-      only: "USA Only",
+    "descript": {
+      "ago": "3w ago",
+      "time": "Full Time",
+      "only": "WorldWide",
     },
+    "tags":{
+      "id":["HTML","CSS","JS","C#","Typescript","MongoDB","Next.Js"]
+    }
   },
   {
-    id: 4,
-    job: "Junior Frontend Developer",
-    company: {
-      name: "MyHome",
-      logo: `https://apiwork11.herokuapp.com/images/myhome.svg`,
+    "id": 10,
+    "job": "Front-end Dev",
+    "company": {
+      "name": "The Air Filter company",
+      "logo": "https://apiwork11.herokuapp.com/images/the-air-filter-company.svg",
     },
-    descript: {
-      ago: "5d ago",
-      time: "Contract",
-      only: "USA Only",
+    "descript": {
+      "ago": "1mo ago",
+      "time": "Part Time",
+      "only": "WorldWide",
     },
-  },
-  {
-    id: 5,
-    job: "Software Engineer",
-    company: {
-      name: "Loop Studios",
-      logo: `https://apiwork11.herokuapp.com/images/loop-studios.svg`,
-    },
-    descript: {
-      ago: "1w ago",
-      time: "Full Time",
-      only: "WorldWide",
-    },
-  },
-  {
-    id: 6,
-    job: "Junior Backend Developer",
-    company: {
-      name: "FaceIt",
-      logo: `https://apiwork11.herokuapp.com/images/faceit.svg`,
-    },
-    descript: {
-      ago: "2w ago",
-      time: "Full Time",
-      only: "UK Only",
-    },
-  },
-  {
-    id: 7,
-    job: "Junior Developer",
-    company: {
-      name: "Shortly",
-      logo: `https://apiwork11.herokuapp.com/images/shortly.svg`,
-    },
-    descript: {
-      ago: "2w ago",
-      time: "Full Time",
-      only: "WorldWide",
-    },
-  },
-  {
-    id: 8,
-    job: "Junior Frontend Developer",
-    company: {
-      name: "Insure",
-      logo: `https://apiwork11.herokuapp.com/images/insure.svg`,
-    },
-    descript: {
-      ago: "2w ago",
-      time: "Full Time",
-      only: "Usa Only",
-    },
-  },
-  {
-    id: 9,
-    job: "Full Stack Engineer",
-    company: {
-      name: "Eyecam Co.",
-      logo: `https://apiwork11.herokuapp.com/images/eyecam-co.svg`,
-    },
-    descript: {
-      ago: "3w ago",
-      time: "Full Time",
-      only: "WorldWide",
-    },
-  },
-  {
-    id: 10,
-    job: "Front-end Dev",
-    company: {
-      name: "The Air Filter Company",
-      logo: `https://apiwork11.herokuapp.com/images/the-air-filter-company.svg`,
-    },
-    descript: {
-      ago: "1mo ago",
-      time: "Part Time",
-      only: "WorldWide",
-    },
+    "tags":{
+      "id":["HTML","CSS","JS"]
+    }
   },
 ];

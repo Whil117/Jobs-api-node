@@ -1,29 +1,19 @@
-const express = require('express')
-import { data } from "./assets/data";
+import express from "express";
 
 const app = express();
-const PORT = 3000;
+const PORT = 8000;
+
+const data = require("../data.json");
+console.log(data);
 
 app.use(express.static("public"));
 
 app.use("/images", express.static("images"));
 
-app.get(
-  "/",
-  (
-    req: any,
-    res: {
-      send: (
-        arg0: {
-          id: number;
-          job: string;
-          company: { name: string; logo: string };
-          descript: { ago: string; time: string; only: string };
-        }[]
-      ) => any;
-    }
-  ) => res.send(data)
-);
+app.get("/", (req, res) => {
+  res.json(data)
+  res.sendStatus(200).send('OK')
+});
 
 app.listen(process.env.PORT || PORT, () => {
   console.log(`⚡️[server]: Server is running at https://localhost:${PORT}`);
