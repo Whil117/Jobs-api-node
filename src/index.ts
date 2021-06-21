@@ -18,3 +18,5 @@ app.listen(process.env.PORT || PORT, () => {
 });
 
 module.exports = app;
+
+//    "dev": "nodemon src/index.ts",
