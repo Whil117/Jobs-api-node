@@ -19,11 +19,11 @@
         "Kotlin",
         "Java",
         "Angular"
-      ],
-      "mode": {
-        "new": "New!",
-        "feat": "Featured"
-      }
+      ]
+    },
+    "mode": {
+      "new": "New!",
+      "feat": "Featured"
     }
   },
   {
@@ -45,11 +45,11 @@
         "JS",
         "React",
         "MongoDB"
-      ],
-      "mode": {
-        "new": "New!",
-        "feat": "Featured"
-      }
+      ]
+    },
+    "mode": {
+      "new": "New!",
+      "feat": "Featured"
     }
   },
   {
@@ -69,11 +69,11 @@
         "HTML",
         "CSS",
         "JS"
-      ],
-      "mode": {
-        "new": "New!",
-        "feat": "Featured"
-      }
+      ]
+    },
+    "mode": {
+      "new": "New!",
+      "feat": "Featured"
     }
   },
   {
